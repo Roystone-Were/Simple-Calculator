@@ -1,4 +1,4 @@
-# JavaScript Calculator
+# Simple JavaScript Calculator
 
 This is a simple calculator application built using HTML, CSS, and JavaScript. The project demonstrates basic web development skills, including DOM manipulation, styling with CSS, and implementing functionality using JavaScript.
 
