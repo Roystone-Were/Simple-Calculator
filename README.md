@@ -9,6 +9,9 @@ This is a simple calculator application built using HTML, CSS, and JavaScript. T
 - Clear the display or compute the result using the provided buttons.
 - Styled using modern CSS for a sleek and user-friendly appearance.
 
+## Screenshots
+
+![Calculator Interface](https://imgur.com/a/g3DTugj)
 ## Technologies Used
 
 - **HTML5**: Markup structure for the calculator.
