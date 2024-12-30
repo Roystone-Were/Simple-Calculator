@@ -11,7 +11,7 @@ This is a simple calculator application built using HTML, CSS, and JavaScript. T
 
 ## Screenshots
 
-![Calculator Interface](https://imgur.com/a/g3DTugj)
+![Calculator Interface](imgur.com/a/g3DTugj)
 ## Technologies Used
 
 - **HTML5**: Markup structure for the calculator.
